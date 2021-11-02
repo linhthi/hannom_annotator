@@ -25,13 +25,6 @@ If you just want to run the Annotator, the easiest way is [Docker](https://docs.
 
 _Note: images and the database with annotations are retained when you shut down the system_
 
-**Project Overview**
-
-![Project Overview](documentation/project_view.png)
-
-**Single Image Annotations**
-
-![Image Annotation](documentation/image-annotation.png)
 
 ## Requirements
 
