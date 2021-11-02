@@ -6,9 +6,6 @@ General purpose tool to create image annotations for machine learning purposes.
  
 Annotations can be downloaded as JSON file and used in machine learning tools to train image analytic models.
 
-[![Demo Video](http://img.youtube.com/vi/L9HzpUxJNc0/0.jpg)](https://www.youtube.com/watch?v=L9HzpUxJNc0 "Demo Video")
-_click to view demo video_
-
 **Table of Contents**
 
 1. [Requirements](#requirements)
@@ -91,7 +88,7 @@ You can run the whole solution as docker environment.
 
 **Build**
 
-- If you want to build the container yourself, run `docker build -t ilfrich/annotator .` (ensure the build finishes
+- If you want to build the container yourself, run `docker build -t annotator .` (ensure the build finishes
  successful)
 
 ## Running the App
